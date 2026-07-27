@@ -1,11 +1,11 @@
-# 🏥 Securing AI in Medical Imaging
+# Securing AI in Medical Imaging
 ### IT595 Master's Capstone in Cybersecurity Management | Purdue University Global
 
 > A cybersecurity and governance framework for AI-enabled medical imaging systems — bridging clinical practice, patient privacy, and responsible AI adoption.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This capstone project conducts a cybersecurity-focused assessment of AI-enabled medical imaging systems within a fictional integrated healthcare organization, **Horizon Valley Health System (HVHS)**. The project examines vulnerabilities across the imaging AI data lifecycle and proposes a tailored security and governance framework to protect patient data while enabling safe, ethical AI adoption in clinical environments.
 
@@ -13,7 +13,7 @@ This capstone project conducts a cybersecurity-focused assessment of AI-enabled 
 
 ---
 
-## 🏛️ Organizational Context
+## Organizational Context
 
 **Horizon Valley Health System (HVHS)** is a fictional integrated healthcare organization created for the purposes of this project. HVHS operates regional hospitals, outpatient clinics, and diagnostic imaging centers providing services across CT, MRI, PET, ultrasound, and X-ray modalities. The organization has begun integrating AI into its imaging workflows to assist clinicians with image analysis and clinical decision support — and needed a governance framework to do so responsibly.
 
@@ -63,7 +63,7 @@ The primary deliverable — a detailed policy and governance framework that incl
 
 ---
 
-## 🏗️ Frameworks & Standards Referenced
+## Frameworks & Standards Referenced
 
 | Framework | Application |
 |---|---|
@@ -77,7 +77,7 @@ The primary deliverable — a detailed policy and governance framework that incl
 
 ---
 
-## 💡 Key Recommendations
+## Key Recommendations
 
 1. **Encrypt and segment PHI** from AI training datasets to reduce external attack surface
 2. **Implement explainable AI output** with disclaimers to address algorithmic bias and build clinician trust
@@ -88,15 +88,15 @@ The primary deliverable — a detailed policy and governance framework that incl
 
 ---
 
-## 👩‍💻 About the Author
+## About the Author
 
-I'm a cybersecurity professional with a somewhat unconventional path — I started in **Nuclear Medicine** (A.S.) before pivoting to security and earning my **M.S. in Cybersecurity Management** from Purdue University Global. That background gives me a first-hand appreciation for how sensitive medical imaging environments are, what's actually at stake when patient data is exposed, and why security controls need to be practical for clinical staff — not just technically sound.
+I'm a cybersecurity professional with a somewhat unconventional path — I started in **Nuclear Medicine** (A.S.), advanced my degree in **Radiological Science** (B.S.), before pivoting to security and earning my **M.S. in Cybersecurity Management** from Purdue University Global. That background gives me a first-hand appreciation for how sensitive medical imaging environments are, what's actually at stake when patient data is exposed, and why security controls need to be practical for clinical staff — not just technically sound.
 
 This project is the first in what I'm building as an **AI/ML-focused security portfolio on GitHub**, reflecting my interest in the intersection of cybersecurity, healthcare, and responsible AI. More projects to come.
 
 ---
 
-## 📚 Selected References
+## Selected References
 
 - Alder, S. (2026). *What Is A HIPAA Business Associate Agreement?* HIPAA Journal.
 - Cavoukian, A. & Information and Privacy Commissioner of Ontario. (2011). *Privacy by design.*
@@ -109,7 +109,9 @@ This project is the first in what I'm building as an **AI/ML-focused security po
 
 *This project was completed as the Unit 10 capstone for IT595 at Purdue University Global. Horizon Valley Health System is a fictional organization created solely for academic purposes.*
 
-License
+---
+
+## License
 © 2026 Danielle Hendon. All rights reserved.
 
 This repository is shared publicly for portfolio and demonstration purposes. No part of this project — code, data, methodology, or writeup — may be copied, reused, or redistributed without permission.
