@@ -108,3 +108,8 @@ This project is the first in what I'm building as an **AI/ML-focused security po
 ---
 
 *This project was completed as the Unit 10 capstone for IT595 at Purdue University Global. Horizon Valley Health System is a fictional organization created solely for academic purposes.*
+
+License
+© 2026 Danielle Hendon. All rights reserved.
+
+This repository is shared publicly for portfolio and demonstration purposes. No part of this project — code, data, methodology, or writeup — may be copied, reused, or redistributed without permission.
