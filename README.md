@@ -88,14 +88,6 @@ The primary deliverable — a detailed policy and governance framework that incl
 
 ---
 
-## About the Author
-
-I'm a cybersecurity professional with a somewhat unconventional path — I started in **Nuclear Medicine** (A.S.), advanced my degree in **Radiological Science** (B.S.), before pivoting to security and earning my **M.S. in Cybersecurity Management** from Purdue University Global. That background gives me a first-hand appreciation for how sensitive medical imaging environments are, what's actually at stake when patient data is exposed, and why security controls need to be practical for clinical staff — not just technically sound.
-
-This project is the first in what I'm building as an **AI/ML-focused security portfolio on GitHub**, reflecting my interest in the intersection of cybersecurity, healthcare, and responsible AI. More projects to come.
-
----
-
 ## Selected References
 
 - Alder, S. (2026). *What Is A HIPAA Business Associate Agreement?* HIPAA Journal.
