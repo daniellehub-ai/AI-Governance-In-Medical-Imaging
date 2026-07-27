@@ -36,10 +36,10 @@ Five core risks to patient data were identified and analyzed across the imaging 
 ## Repository Contents
 
 ```
- securing-ai-in-medical-imaging/
-├──  Dburton-IT595_Assignment-Unit10__Capstone_Slides_.pdf   # Presentation deck
-├──  Dburton-IT595_Assignment-Unit10__Governance_.docx       # Full governance document
-└──  ChatGPT Image Mar 10, 2026, 12_18_08 PM.png             # ChatGPT Image
+AI-Governance-In-Medical-Imaging/
+├── Hendon-AI-Governance-Capstone-Slides.pdf     # Presentation deck
+├── Hendon-AI-Governance-Capstone-Report.docx    # Full governance document
+└── AI-lifecycle-diagram.png                     # Diagram/illustration used in the report
 ```
 
 ### Slide Deck
