@@ -19,7 +19,7 @@ This capstone project conducts a cybersecurity-focused assessment of AI-enabled 
 
 ---
 
-## ⚠️ Risk Areas Addressed
+## Risk Areas Addressed
 
 Five core risks to patient data were identified and analyzed across the imaging AI data lifecycle:
 
@@ -33,13 +33,13 @@ Five core risks to patient data were identified and analyzed across the imaging 
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
-📂 securing-ai-in-medical-imaging/
-├── 📊 Dburton-IT595_Assignment-Unit10__Capstone_Slides_.pdf   # Presentation deck
-└── 📄 Dburton-IT595_Assignment-Unit10__Governance_.docx       # Full governance document
-└──    ChatGPT Image Mar 10, 2026, 12_18_08 PM.png              # ChatGPT Image
+ securing-ai-in-medical-imaging/
+├──  Dburton-IT595_Assignment-Unit10__Capstone_Slides_.pdf   # Presentation deck
+├──  Dburton-IT595_Assignment-Unit10__Governance_.docx       # Full governance document
+└──  ChatGPT Image Mar 10, 2026, 12_18_08 PM.png              # ChatGPT Image
 ```
 
 ### Slide Deck
