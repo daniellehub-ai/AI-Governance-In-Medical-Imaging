@@ -39,7 +39,7 @@ Five core risks to patient data were identified and analyzed across the imaging 
  securing-ai-in-medical-imaging/
 ├──  Dburton-IT595_Assignment-Unit10__Capstone_Slides_.pdf   # Presentation deck
 ├──  Dburton-IT595_Assignment-Unit10__Governance_.docx       # Full governance document
-└──  ChatGPT Image Mar 10, 2026, 12_18_08 PM.png              # ChatGPT Image
+└──  ChatGPT Image Mar 10, 2026, 12_18_08 PM.png             # ChatGPT Image
 ```
 
 ### Slide Deck
